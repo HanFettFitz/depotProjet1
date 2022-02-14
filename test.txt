@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 gfghdfgdsfgdfgd
 trr
 
 erte
+=======
+rfefe
+test
+fefef
+>>>>>>> branch 'main' of https://github.com/HanFettFitz/depotProjet1.git
