@@ -26,6 +26,7 @@ public class AcceuilServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("Coucou");
+		System.out.println("Bonjour");
 		response.getWriter().append("Served at: ").append(request.getContextPath());
 	}
 
